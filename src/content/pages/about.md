@@ -7,7 +7,7 @@ seo:
     src: '/about.jpeg'
     alt: A person sitting at a desk in front of a computer
 ---
-
+<!-- 
 ![Alt text for image](/about.jpeg)
 
 **Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
@@ -40,4 +40,4 @@ I believe in the power of collaboration and effective communication. Whether wor
 
 Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
 
-_Let's build something amazing together!_
+_Let's build something amazing together!_ -->
