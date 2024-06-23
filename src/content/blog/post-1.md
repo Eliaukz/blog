@@ -9,6 +9,10 @@ seo:
     src: '/post-1.jpg'
     alt: A person standing at the window
 ---
+
+![hhhhh](./post-1.jpg)
+
+
 <!-- 
 ![A person standing at the window](/post-1.jpg)
 
