@@ -10,10 +10,6 @@ seo:
     alt: A person standing at the window
 ---
 
-11122222
-![hhhhh](./post-1.jpg)
-1111
-
 <!-- 
 ![A person standing at the window](/post-1.jpg)
 
