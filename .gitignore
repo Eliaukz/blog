@@ -3,7 +3,7 @@ dist/
 # generated types
 .astro/
 .obsidian/
-
+./src/content/.obsidian/
 # dependencies
 node_modules/
 
